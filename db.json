@@ -1,0 +1,168 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "name": "tom-and-gerry",
+      "product": [
+        {
+          "id": 1,
+          "fullName": "Tom",
+          "bio": "Hey i'm Tom",
+          "twitterUsername": "@tom",
+          "githubUsername": "jtom",
+          "website": "www.jtom.co.uk"
+        },
+        {
+          "id": 2,
+          "fullName": "Jerry",
+          "bio": "Hey! I'm Jerry",
+          "twitterUsername": "@Jerry_93",
+          "githubUsername": "Jerry_93",
+          "website": "www.Jerry.co.uk"
+        },
+        {
+          "id": 3,
+          "fullName": "Jerry",
+          "bio": "Hey! I'm Jerry",
+          "twitterUsername": "@Jerry_93",
+          "githubUsername": "Jerry_93",
+          "website": "www.Jerry.co.uk"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rick-and-morty",
+      "product": [
+        {
+          "id": 1,
+          "fullName": "Rick",
+          "bio": "Hey i'm Rick",
+          "twitterUsername": "@Rick",
+          "githubUsername": "Rick",
+          "website": "www.Rick.co.uk"
+        },
+        {
+          "id": 2,
+          "fullName": "morty",
+          "bio": "Hey! I'm morty",
+          "twitterUsername": "@morty",
+          "githubUsername": "morty",
+          "website": "www.morty.co.uk"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "BOB-and-FRED",
+      "product": [
+        {
+          "id": 1,
+          "fullName": "BOB",
+          "bio": "Hey i'm BOB",
+          "twitterUsername": "@BOB",
+          "githubUsername": "BOB",
+          "website": "www.BOB.co.uk"
+        },
+        {
+          "id": 2,
+          "fullName": "ANNA",
+          "bio": "Hey i'm ANNA",
+          "twitterUsername": "@ANNA",
+          "githubUsername": "ANNA",
+          "website": "www.ANNA.co.uk"
+        },
+        {
+          "id": 3,
+          "fullName": "FRED",
+          "bio": "Hey i'm FRED",
+          "twitterUsername": "@FRED",
+          "githubUsername": "FRED",
+          "website": "www.FRED.co.uk"
+        }
+      ]
+    },
+    {
+      "name": "BOB-and-FRED",
+      "product": [
+        {
+          "id": 1,
+          "fullName": "BOB",
+          "bio": "Hey i'm BOB",
+          "twitterUsername": "@BOB",
+          "githubUsername": "BOB",
+          "website": "www.BOB.co.uk"
+        },
+        {
+          "id": 2,
+          "fullName": "ANNA",
+          "bio": "Hey i'm ANNA",
+          "twitterUsername": "@ANNA",
+          "githubUsername": "ANNA",
+          "website": "www.ANNA.co.uk"
+        },
+        {
+          "id": 3,
+          "fullName": "FRED",
+          "bio": "Hey i'm FRED",
+          "twitterUsername": "@FRED",
+          "githubUsername": "FRED",
+          "website": "www.FRED.co.uk"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "BOBs-ands-FREDs",
+      "product": [
+        {
+          "id": 1,
+          "fullName": "BOB",
+          "bio": "Hey i'm BOB",
+          "twitterUsername": "@BOB",
+          "githubUsername": "BOB",
+          "website": "www.BOB.co.uk"
+        },
+        {
+          "id": 2,
+          "fullName": "ANNA",
+          "bio": "Hey i'm ANNA",
+          "twitterUsername": "@ANNA",
+          "githubUsername": "ANNA",
+          "website": "www.ANNA.co.uk"
+        },
+        {
+          "id": 3,
+          "fullName": "FRED",
+          "bio": "Hey i'm FRED",
+          "twitterUsername": "@FRED",
+          "githubUsername": "FRED",
+          "website": "www.FRED.co.uk"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Spongebob & Patric",
+      "product": [
+        {
+          "id": 1,
+          "fullName": "Spongebob",
+          "bio": "Hey i'm Spongebob",
+          "twitterUsername": "@Spongebob",
+          "githubUsername": "Spongebob",
+          "website": "www.Spongebob.co.uk"
+        },
+        {
+          "id": 2,
+          "fullName": "Patric",
+          "bio": "Hey i'm Patric",
+          "twitterUsername": "@Patric",
+          "githubUsername": "Patric",
+          "website": "www.Patric.co.uk"
+        }
+      ],
+      "id": 6
+    }
+  ]
+}

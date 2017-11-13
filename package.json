@@ -1,0 +1,26 @@
+{
+  "name": "hbr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "json-server -p 3000 db.json",
+    "generator": "gulp handlebars"
+  },
+  "keywords": [],
+  "author": "Sergey Desyatkov",
+  "license": "ISC",
+  "devDependencies": {
+    "excel-as-json": "^2.0.1",
+    "excel-parser": "^0.2.2",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-rename": "^1.2.2",
+    "node-excel-to-json": "0.0.3",
+    "xls-to-json": "^0.4.0",
+    "xlsx": "^0.11.8"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "node-fetch": "^1.7.3"
+  }
+}
